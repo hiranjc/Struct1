@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Struct1\bin\Debug\net8.0\Struct1.exe
+C:\Users\ET73\Downloads\projetos-c#\Struct1\bin\Debug\net8.0\Struct1.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Struct1\bin\Debug\net8.0\Struct1.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Struct1\bin\Debug\net8.0\Struct1.dll
+C:\Users\ET73\Downloads\projetos-c#\Struct1\bin\Debug\net8.0\Struct1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.dll
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\refint\Struct1.dll
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\Struct1.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Struct1\obj\Debug\net8.0\ref\Struct1.dll
